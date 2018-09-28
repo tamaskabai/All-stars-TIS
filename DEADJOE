@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 *** These modified files were found in JOE when it aborted on Fri Sep 28 11:31:09 2018
 *** JOE was aborted by UNIX signal 1
 
@@ -11,12 +12,32 @@
 # with '#' will be ignored, and an empty message aborts the commit.
 #
 # Committer: tomana2 <tomana2@h6-a-25.cr.fmph.uniba.sk>
+=======
+*** These modified files were found in JOE when it aborted on Fri Sep 28 11:30:54 2018
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/z/zrubec6/All-stars-TIS/.git/COMMIT_EDITMSG
+
+*** File '/home/z/zrubec6/All-stars-TIS/.git/COMMIT_EDITMSG'
+#Koment Michal Zrubec
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: zrubec6 <zrubec6@h6-a-24.cr.fmph.uniba.sk>
+>>>>>>> 18ff98d2d0ef39182dc7c70cd14c4dcc03f2f22d
 #
 # On branch master
 # Your branch is up-to-date with 'origin/master'.
 #
 # Changes to be committed:
+<<<<<<< HEAD
 #	new file:   .Rhistory
+=======
+#	
+
+new file:   .Rhistory
+>>>>>>> 18ff98d2d0ef39182dc7c70cd14c4dcc03f2f22d
 #	modified:   README.md
 #
 
