@@ -12,13 +12,8 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-1.
-2.
-<<<<<<< HEAD
-3.
-4.František Tomana
-=======
+1. Tamas Kabai
+2. Boris Silný
 3. Michal Zrubec
-4.
->>>>>>> 18ff98d2d0ef39182dc7c70cd14c4dcc03f2f22d
+4. František Tomana
 
