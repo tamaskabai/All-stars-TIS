@@ -13,7 +13,7 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1.
-2.
+2.Boris Silný
 3.
 4.
 
