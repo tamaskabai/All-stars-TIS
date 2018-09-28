@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Fri Sep 28 11:31:09 2018
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/t/tomana2/All-stars-TIS/.git/COMMIT_EDITMSG
+
+*** File '/home/t/tomana2/All-stars-TIS/.git/COMMIT_EDITMSG'
+#Koment František Tomana
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: tomana2 <tomana2@h6-a-25.cr.fmph.uniba.sk>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .Rhistory
+#	modified:   README.md
+#
+
+
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
