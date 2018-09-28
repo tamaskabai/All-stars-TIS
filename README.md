@@ -14,6 +14,6 @@ Nas tim tvoria clenovia:
 
 1.
 2.Boris Silný
-3.
+3. Michal Zrubec
 4.
 
