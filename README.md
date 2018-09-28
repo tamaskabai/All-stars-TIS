@@ -12,11 +12,7 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-<<<<<<< HEAD
-1.Tamas Kabai
-=======
-1.
->>>>>>> 49861952d7b05f7d54743764288a333e7bd6fa9c
+1. Tamas Kabai
 2.
 3. Michal Zrubec
 4.
