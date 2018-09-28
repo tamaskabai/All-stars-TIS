@@ -3,7 +3,7 @@
 void hanoi(int n, int a, int b)
 {
   if (n == 1) 
-    printf("daj kamen 1 s %d na %d\n", a, b);
+    printf("daj kamen 1 z %d na %d\n", a, b);
   else
   {
     hanoi(n - 1, a, 6 - b);
