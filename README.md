@@ -12,8 +12,8 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-1.
-2.Boris Silný
+1. Tamas Kabai
+2. Boris Silný
 3. Michal Zrubec
 4.
 
